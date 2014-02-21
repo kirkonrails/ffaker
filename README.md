@@ -1,7 +1,7 @@
 # ffaker with Education Mods
 
-I have forked this for the purpose of having randome course names under the education module. That's about it.
-Use it if you need to. Most of the courses are pulled from college level courses.
+I have forked this for the purpose of having random course names under the education module. That's about it.
+Use it if you need to. Most of the courses are pulled from college level course names.
 
 Here is how you might use it:
 
