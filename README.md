@@ -1,3 +1,13 @@
+# ffaker with Education Mods
+
+I have forked this for the purpose of having randome course names under the education module. That's about it.
+Use it if you need to. Most of the courses are pulled from college level courses.
+
+Here is how you might use it:
+
+    Faker::Education.course
+
+
 # ffaker
 
 [ffaker](http://rubygems.org/gems/ffaker) is a rewrite of [faker](http://rubygems.org/gems/faker).
